@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <color name="viewfinder_frame">#FF0000</color>
+    <color name="viewfinder_laser">#ff7FFF00</color>
+    <color name="viewfinder_mask">#407CFC00</color>
+</resources>
